@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chrisdotjs
 - 👀 I’m interested in React, React Native, Mobile UI/UX, UI Animation, Firebase/CMS/REST API
-- 🌱 I’m currently learning JS, React
-- 💞️ I’m looking to collaborate on Web projects
+- 🌱 I’m currently learning React, React Native
+- 💞️ I’m looking to collaborate on Web and Mobile projects
 - 📫 How to reach me Twitter, GitHub
 
 <!---
